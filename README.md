@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in both
 
 ## 📫 Connect with Me
 - Email: jonathanmicah23@gmail.com 
-- LinkedIn: [My LinkedIn]([www.linkedin.com/in/xolani-sodam-0376782a7](https://www.linkedin.com/in/xolani-sodam-0376782a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B78Yyfk7pSLuaG0DPkfUhBw%3D%3D))  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/xolani-sodam-0376782a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B78Yyfk7pSLuaG0DPkfUhBw%3D%3D) 
 - Portfolio: [coming soon](https://yourwebsite.com)
 
 Thanks for stopping by!
